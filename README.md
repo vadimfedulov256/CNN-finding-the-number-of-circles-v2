@@ -32,6 +32,7 @@ by command `python gen_val.py` and test dataset by command `python gen_test.py` 
 them, if you dont really need it.
 
 circle_finder_CNN.ipynb and circle_finder_CNN.py use the same path "test/test/*.png"
+
 train_circle_finder_CNN.ipynb use pathes "data/train/../*png", "data/val/../*png"
 
 Special thanks to web-site https://dummyimage.com I have downloaded my own dataset there with scripts generating random numbers with random colors. If you dont want to lose time by generating your

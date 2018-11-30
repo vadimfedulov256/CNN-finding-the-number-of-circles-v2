@@ -8,7 +8,7 @@ file = open('test_links.py','w')
 file.write('import urllib\n')
 file.write('i=0\n')
 
-for i in xrange(250):
+for i in xrange(5):
       a=random.randint(0,9)
       b=random.randint(0,9)
       c=random.randint(0,9)

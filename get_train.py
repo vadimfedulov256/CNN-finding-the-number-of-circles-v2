@@ -156,3 +156,6 @@ for i in xrange(100000):
 file.close()
 
 import train_links
+
+os.remove('train_links.py')
+os.remove('train_links.pyc')

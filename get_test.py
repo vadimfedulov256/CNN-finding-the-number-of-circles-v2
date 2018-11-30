@@ -51,3 +51,6 @@ for i in xrange(250):
 file.close()
 
 import test_links
+
+os.remove('test_links.py')
+os.remove('test_links.pyc')

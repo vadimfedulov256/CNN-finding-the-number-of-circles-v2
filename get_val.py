@@ -156,3 +156,6 @@ for i in xrange(250):
 file.close()
 
 import val_links
+
+os.remove('val_links.py')
+os.remove('val_links.pyc')

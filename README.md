@@ -36,4 +36,4 @@ circle_finder_CNN.ipynb and circle_finder_CNN.py use the same path "test/test/*.
 train_circle_finder_CNN.ipynb use pathes "data/train/../*png", "data/val/../*png"
 
 Special thanks to web-site https://dummyimage.com I have downloaded my own dataset there with scripts generating random numbers with random colors. If you dont want to lose time by generating your
-own, you can download my dataset here, it is had been augmented already https://mega.nz/#!OfZkgabI!fND1wYutt2lA7gdSr4xgsNNmXPZwrGPaqvKhPZf7uxk
+own, you can download my dataset here, it had been augmented already https://mega.nz/#!OfZkgabI!fND1wYutt2lA7gdSr4xgsNNmXPZwrGPaqvKhPZf7uxk

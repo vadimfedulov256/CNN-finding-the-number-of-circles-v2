@@ -27,8 +27,8 @@ You can also use your own trained model, it will be in folder 'models' after tra
 And you can use circle_finder_CNN.py by command `python circle_finder_CNN.py`, it will work the same way as circle_finder_CNN.ipynb,
 but without vizualisation and in terminal.
 
-You can download your own randomly generated training dataset by command `python gen_train.py`, validation dataset
-by command `python gen_val.py` and test dataset by command `python gen_test.py` Notebooks and circle_finder_CNN.py will find generated paths, so dont change
+You can download your own randomly generated training dataset by command `python get_train.py`, validation dataset
+by command `python get_val.py` and test dataset by command `python get_test.py` Notebooks and circle_finder_CNN.py will find generated paths, so dont change
 them, if you dont really need it.
 
 circle_finder_CNN.ipynb and circle_finder_CNN.py use the same path "test/test/*.png"

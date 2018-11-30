@@ -9,7 +9,7 @@ img_width, img_height = 56, 28
 # you can use any quantity of pictures in your dataset, but dont forget that total number of them should be possible to devide by batch_size
 test_data_dir = 'test'
 # set batch size whatever you want now, but its better to set it equal to total number of pictures in your dataset or just close to it
-batch_size=150
+batch_size=5
 # set the number of steps equal to number of batches dataset can be devided (ex. if dataset is 100 picture then batch_size can be 25 and steps can be 4)
 steps=1
 

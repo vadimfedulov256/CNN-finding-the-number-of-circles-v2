@@ -16,7 +16,7 @@ file = open('train_links.py','w')
 file.write('import urllib\n')
 file.write('i=0\n')
 
-for i in xrange(6142):
+for i in xrange(100000):
       a=random.randint(0,9)
       b=random.randint(0,9)
       c=random.randint(0,9)

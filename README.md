@@ -28,9 +28,9 @@ And you can denote some last lines of code in circle_finder_CNN_v2.ipynb and cir
 You can download your own randomly generated training and validation datasets by command `python get_data.py`, test dataset by command `python get_test.py` Notebooks and circle_finder_CNN_v2.py will find generated paths, so dont change
 them, if you dont really need it.
 
-circle_finder_CNN_v2.ipynb and circle_finder_CNN_v2.py use the same path "test/test/*.png"
+circle_finder_CNN_v2.ipynb and circle_finder_CNN_v2.py use the same path "test/test/"
 
-train_circle_finder_CNN_v2.ipynb use pathes "data/train/?/*.png", "data/val/?/*.png"
+train_circle_finder_CNN_v2.ipynb use pathes "data/train/", "data/val/"
 
 Special thanks to web-site https://dummyimage.com I have downloaded my own dataset there with scripts generating random numbers with random colors. If you dont want to lose time by generating your
 own, you can download dataset that I used during training of pretrained model here, https://drive.google.com/file/d/1q7_2xQxbyP-f8h9rYhIXAyRAU2muGyKf/view?usp=sharing

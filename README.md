@@ -25,10 +25,10 @@ but without vizualization and in terminal.
 
 And you can denote some last lines of code in circle_finder_CNN_v2.ipynb and circle_finder_CNN_v2.py to rename all files using predictions of neural network.
 
-You can download your own randomly generated training and validation datasets by command `python get_data.py`, test dataset by command `python get_test.py` Notebooks and circle_finder_CNN.py will find generated paths, so dont change
+You can download your own randomly generated training and validation datasets by command `python get_data.py`, test dataset by command `python get_test.py` Notebooks and circle_finder_CNN_v2.py will find generated paths, so dont change
 them, if you dont really need it.
 
-circle_finder_CNN.ipynb and circle_finder_CNN_v2.py use the same path "test/test/*.png"
+circle_finder_CNN_v2.ipynb and circle_finder_CNN_v2.py use the same path "test/test/*.png"
 
 train_circle_finder_CNN_v2.ipynb use pathes "data/train/../*png", "data/val/../*png"
 

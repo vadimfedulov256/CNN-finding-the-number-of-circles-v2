@@ -21,9 +21,9 @@ You can use pretrained CNN-model in folder 'models' by circle_finder_CNN_v2.ipyn
 You can also use your own trained model, it will be in folder 'models' after training, dont forget to delete pretrained one.
 
 And you can use circle_finder_CNN_v2.py by command `python circle_finder_CNN_v2.py`, it will work the same way as circle_finder_CNN_v2.ipynb,
-but without vizualisation and in terminal.
+but without vizualization and in terminal.
 
-And you can denote some last lines of code in circle_finder_CNN_v2.ipynb and circle_finder_CNN_v2.py to rename all files using predictions
+And you can denote some last lines of code in circle_finder_CNN_v2.ipynb and circle_finder_CNN_v2.py to rename all files using predictions of neural network.
 
 You can download your own randomly generated training and validation datasets by command `python get_data.py`, test dataset by command `python get_test.py` Notebooks and circle_finder_CNN.py will find generated paths, so dont change
 them, if you dont really need it.

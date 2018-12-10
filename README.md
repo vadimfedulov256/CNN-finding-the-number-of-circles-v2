@@ -1,4 +1,4 @@
-# CNN finding the number of circles
+# CNN finding the number of circles, version 2
 ![CNN finder logo](https://raw.githubusercontent.com/vadimfedulov321/CNN-finding-the-number-of-circles-v2/master/logo/index.png)
 ## Convolutional Neural Network counts circles in 4 different numbers of any color
 

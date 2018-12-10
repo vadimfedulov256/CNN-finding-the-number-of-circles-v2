@@ -1,0 +1,2 @@
+loss: 0.0270 - acc: 0.9977 - val_loss: 1.1921e-07 - val_acc: 1.0000
+epochs: 50 - iterations: 500000

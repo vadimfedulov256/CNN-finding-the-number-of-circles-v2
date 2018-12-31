@@ -1,5 +1,4 @@
 import os
-import numpy as np
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import load_model
 

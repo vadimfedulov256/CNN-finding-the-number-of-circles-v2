@@ -1,5 +1,4 @@
 import os
-import numpy as np
 import random
 
 ntest_imgs=50

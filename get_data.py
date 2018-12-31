@@ -1,5 +1,4 @@
 import os
-import numpy as np
 import random
 
 ntrain_imgs=11111 # number of training images to download for each category, but +1 for the last

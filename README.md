@@ -8,8 +8,6 @@ python2.7 or higher (`sudo apt install python2.7 python-pip`)
 
 Jupyter Notebook (`python -m pip install --upgrade pip`, `python -m pip install jupyter`)
 
-NumPy (`pip install numpy`)
-
 Keras v2 with TensorFlow backend (`pip install tensorflow-gpu`, `pip install keras`)
 
 CUDA 9.0 and cuDNN 7.0.5 (for TensorFlow backend)
